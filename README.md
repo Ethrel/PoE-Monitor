@@ -1,16 +1,8 @@
-# poe_monitor
+# PoE Monitor
 
-A new Flutter project.
+In-dev WIP app to monitor Path of Exile stash and see if there's anything worth anything in there.
+Currently not built or hosted anywhere.
 
-## Getting Started
+I work on this when I'm bored, or actively need something for when I'm playing PoE. There probably won't be a lot of movement for this.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It's a little clunky and definitely not ready to be a play sotre app or anything. Will it ever? I don't know.
