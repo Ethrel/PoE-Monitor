@@ -5,4 +5,4 @@ Currently not built or hosted anywhere.
 
 I work on this when I'm bored, or actively need something for when I'm playing PoE. There probably won't be a lot of movement for this.
 
-It's a little clunky and definitely not ready to be a play sotre app or anything. Will it ever? I don't know.
+It's a little clunky and definitely not ready to be a play store app or anything. Will it ever? I don't know.
