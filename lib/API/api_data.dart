@@ -170,7 +170,6 @@ class APIData {
   Future<void> _updatePriceInfo() async {
     List<Future<List<ItemPrice>>> prices = List.empty(growable: true);
     for (poe_ninja_endpoints.PriceInfoCategories category in poe_ninja_endpoints.PriceInfoCategories.values) {
-      print("${activeLeague.value!.id} | $category");
       prices.add(poe_ninja_endpoints.Endpoints.getPriceInfo(activeLeague.value!.id, category));
     }
     List<List<ItemPrice>> priceLists = await Future.wait(prices);

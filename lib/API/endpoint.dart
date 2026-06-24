@@ -71,7 +71,6 @@ class Endpoint {
           res = await _postRequest(url, headers, body);
           break;
 
-        case HTTPMethod.GET:
         default:
           res = await _getRequest(url, headers);
           break;

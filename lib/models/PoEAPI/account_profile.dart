@@ -1,4 +1,3 @@
-import "package:poe_monitor/models/PoEAPI/realm.dart";
 
 class AccountProfile {
   AccountProfile({
